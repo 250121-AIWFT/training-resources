@@ -35,12 +35,24 @@ https://medium.com/@gelsonm/case-studies-in-ethical-ai-real-world-bias-and-fairn
 https://www.sciencedirect.com/science/article/pii/S0950584923000514
 
 
+### Privacy
+
+https://iapp.org/resources/article/consumer-perspectives-of-privacy-and-ai/
+
+
 ## Regulation / Recommendation / Best Practice
 
 https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence
 https://time.com/7204670/uk-ai-safety-institute/?utm_source=chatgpt.com
 https://openai.com/policies/usage-policies/
+https://youtu.be/1HnrDu54spg?t=337
 
 ## AI Use Cases
 
 https://www.dhs.gov/ai/use-case-inventory
+
+
+## ML Training
+https://datasciencedojo.com/blog/machine-learning-101/#Which_is_the_better_Machine_Learning_technique
+https://www.geeksforgeeks.org/supervised-vs-reinforcement-vs-unsupervised/
+https://medium.com/@bensalemh300/supervised-vs-unsupervised-vs-reinforcement-learning-a3e7bcf1dd23#:~:text=In%20summary%2C%20supervised%20learning%20is,the%20consequences%20of%20its%20actions.
